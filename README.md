@@ -29,3 +29,29 @@ A sleek and responsive web app that allows users to search for movies, view deta
 git clone https://github.com/your-username/movie-finder-app.git
 cd movie-finder-app
 ```
+
+📁 Project Structure
+
+📦 movie-finder-app
+┣ 📄 index.html
+┣ 📄 style.css
+┣ 📄 script.js
+┗ 📄 README.md
+
+🧠 Future Improvements
+Pagination for results
+
+Dark mode toggle
+
+Add movie trailers from YouTube
+
+Save favorite movies using Local Storage
+
+🙌 Contributing
+Contributions are welcome! Feel free to open issues or submit pull requests.
+
+📜 License
+This project is open source and available under the MIT License.
+
+💬 Acknowledgements
+Thanks to OMDb API for providing free access to movie data.
