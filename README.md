@@ -30,6 +30,15 @@ git clone https://github.com/your-username/movie-finder-app.git
 cd movie-finder-app
 ```
 
+📦 API Usage
+This project uses the OMDb API. To use it:
+
+Visit OMDb API and get a free API key
+
+In the JavaScript code, replace the placeholder:
+
+const apiKey = "YOUR_API_KEY";
+
 📁 Project Structure
 
 📦 movie-finder-app
